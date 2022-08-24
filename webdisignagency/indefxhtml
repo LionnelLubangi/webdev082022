@@ -1,0 +1,50 @@
+<html>
+<head>
+
+</head> 
+<body>
+    <h1>This is the heading 1</h1>>
+    <h2>this is the heading2</h2>
+    <h3>this is the headin 3</h3>
+    <h4>this is the heading 4</h4>
+    <h5>this the heading 5</h5>
+    <h6>this is the heading 6</h6>
+    
+    
+    <!--<trong></strong> is for showing the i;portance of the text-->
+    <!--<b><b/> is for showing the i;portance of the text-->
+    <!--</br>is for going to the next line-->
+  
+    <p><strong>This content shoul be strong</strong> his is my <b>paragraph</b>,i think it is one of the best paragraph i have seen in my life, even it is too short
+        short, it is still the paragraph, don't think it is just a simple</br>character
+    </p>
+    <img src="download.jpeg"100px" width="100px" alt="this is the test to show if the picture does'nt l
+    oad properly">
+<!--</hr>is for creating a horizontal line , the width attribute determine the size in %-->
+<hr width="90%">
+<!--Creating a link a an external website or an internal page-->
+<a href="http://google.com">This the good link to google</a>
+<!--creating a link with an image-->
+<a href="http://google.com">T<img src="download.jpeg"100px" width="100px" alt="this is the test to show if the picture does'nt l
+    oad properly"></a>
+
+    <ol>
+        <li></li>
+        <li>Tuesday <img src="https://www.google.com/search?q=angular&sxsrf=ALiCzsbwbP3kNm8KcF1fdj-zZQGrxo1oyQ:1661299031047&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_yvGUld75AhXPhFwKHfdvBNMQ_AUoAXoECAIQAw&biw=1294&bih=607&dpr=1#imgrc=6V75Nm0iq9fXnM" alt=""></li>
+        <li>Wednesday</li>
+        <li>Thrustday</li>
+        <li>Friday</li>
+        <li>Saturday</li>
+    </ol>
+    
+    <ul>
+    <li>Monday</li>
+    <li>Tuesday</li>
+    <li>Wednesday</li>
+    <li>Thrustday</li>
+    <li>Friday</li>
+    <li>Saturday</li>
+    </ul>
+    
+</body>     
+</html>
